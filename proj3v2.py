@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# This seems only work with small numbers. Large numbers does not work. Either takes too long, or it gets inaccurate
 import math
 
 
